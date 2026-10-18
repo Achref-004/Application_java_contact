@@ -1,3 +1,10 @@
+<p align="center">
+  <img
+    src="Screenshot 2026-10-18 193150.png"
+    alt="logo"
+  >
+</p>
+
 <div align="center"> 
   
 # Gestion de contacts — Application Java
